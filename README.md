@@ -1,4 +1,4 @@
-Brackets OneLiner
+Brackets Oneliner
 ====================
 
 Brackets extension that removes all line breaks and converts multilined text blocks into one line.
@@ -10,7 +10,7 @@ Brackets extension that removes all line breaks and converts multilined text blo
 ### Extension Manager
 1. Run Brackets
 2. Select _File > Extension Manager...
-3. Search for “OneLiner” extension and click “Install” button
+3. Search for “Oneliner” extension and click “Install” button
 
 ### Manual instalation
 1. Under main menu select Help > Show Extensions Folder
