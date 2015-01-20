@@ -3,6 +3,8 @@ Brackets OneLiner
 
 Brackets extension that removes all line breaks and converts multilined text blocks into one line.
 
+![Oneliner screenshot](http://caferati.me/images/labs/oneliner.gif)
+
 ## Installation ##
 
 ### Extension Manager
