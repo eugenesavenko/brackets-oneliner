@@ -1,4 +1,4 @@
-Brackets Oneliner
+Brackets oneliner extension
 ====================
 
 Brackets extension that removes all line breaks and converts multilined text blocks into one line.
